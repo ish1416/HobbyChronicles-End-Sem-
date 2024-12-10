@@ -10,12 +10,15 @@ https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
 
 Special Thanks
 
-We would like to express our heartfelt gratitude to Krushn Dayshmookh Sir for his invaluable guidance, support, and encouragement throughout our end-semester project. His insightful suggestions and constant motivation have been instrumental in the successful completion of this project.
+We would like to express our heartfelt gratitude to Krushn Dayshmookh Sir,Vishal Sir, Chetan Amritanshu Sir,and Raghav Khnadelwal Sir for their invaluable guidance, support, and encouragement throughout our end-semester project. His insightful suggestions and constant motivation have been instrumental in the successful completion of this project.
 
-Thank you, Sir, for being a source of inspiration and for helping us grow both technically and personally.
+Thank you, for being a source of inspiration and for helping us grow both technically and personally.
 
 Project Contributors
-	•	Atharv Soni
-	•	URN: 2024-B-15042006A
-	•	Ishita Singh
-	•	URN: 2024-B-14042006B
+                Ishita Singh
+		URN: 2024-B-14042006B
+                Atharv Soni
+		URN: 2024-B-15042006A
+
+		
+		
